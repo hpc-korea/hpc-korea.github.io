@@ -24,7 +24,7 @@ footer:
     - name: Email
       value: yourmail@domain.com
       link: mailto:yourmail@domain.com
-    - name: Phone
+    - name: WeChat
       value: YourPhoneNumber
       link: "#"
   follow:
