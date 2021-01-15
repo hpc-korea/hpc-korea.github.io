@@ -3,6 +3,7 @@ layout: home
 profile_picture:
   src: /assets/img/hpc-logo.jpg
   alt: website picture
+  Width: 200
 ---
 
 <p>
